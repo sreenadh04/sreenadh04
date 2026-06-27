@@ -29,6 +29,8 @@
 <!-- About Me -->
 ## 🧠 About Me
 
+> *If I were to describe myself in code — this is exactly how I'd write it:*
+
 ```python
 class Sreenadh:
     def __init__(self):
