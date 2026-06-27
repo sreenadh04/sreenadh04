@@ -150,7 +150,7 @@ class Sreenadh:
 |:---:|:---|
 | 🏆 | **GATE CS 2025** — AIR **1476** out of 1,70,825 candidates **(Top 0.8%)** |
 | ✅ | Qualified **GATE CS 2024**, **GATE DA 2024**, **GATE DA 2025** — 3 consecutive qualifications |
-| 🎯 | **Main Organizer**, CuriousClue — Cynosure 2025 (National Tech Fest, NIT Karnataka) — Managed **500+ students & faculty** |
+| 🎯 | **Main Organizer**, CuriousClue — Cynosure 2025 (National Tech Fest, Sri Venkateswara University College of Engineering, Tirupati) — Managed **500+ students & faculty** |
 
 </div>
 
